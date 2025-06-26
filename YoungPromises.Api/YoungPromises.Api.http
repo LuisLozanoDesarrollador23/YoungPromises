@@ -1,0 +1,6 @@
+@YoungPromises.Api_HostAddress = http://localhost:5136
+
+GET {{YoungPromises.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
