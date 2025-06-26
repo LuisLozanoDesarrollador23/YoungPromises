@@ -53,3 +53,10 @@ El proyecto está estructurado bajo una **arquitectura por capas** (Layered Arch
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para discutir cambios importantes antes de implementarlos.
+
+
+## 📄 Licencia
+
+Este proyecto está licenciado bajo la licencia **CC BY-NC 4.0**.  
+Puedes usarlo, modificarlo y distribuirlo siempre que no sea con fines comerciales.  
+Más información: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
