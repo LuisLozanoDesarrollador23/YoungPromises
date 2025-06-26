@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungPromises.Api", "YoungP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungPromises.Data", "YoungPromises.Data\YoungPromises.Data.csproj", "{FF470527-81EB-4A71-9DAA-164DA77B1F59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungPromises.Service", "YoungPromises.Service\YoungPromises.Service.csproj", "{CBFFC907-3C97-4BD7-864E-8F1F6B927F6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FF470527-81EB-4A71-9DAA-164DA77B1F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF470527-81EB-4A71-9DAA-164DA77B1F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF470527-81EB-4A71-9DAA-164DA77B1F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFFC907-3C97-4BD7-864E-8F1F6B927F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFFC907-3C97-4BD7-864E-8F1F6B927F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFFC907-3C97-4BD7-864E-8F1F6B927F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFFC907-3C97-4BD7-864E-8F1F6B927F6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
