@@ -1,0 +1,14 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Este proyecto está licenciado bajo los términos de la licencia Creative Commons 
+Reconocimiento-NoComercial 4.0 Internacional.
+
+Puedes copiar, modificar y compartir el contenido de este proyecto, siempre que:
+
+1. Se dé el debido crédito al autor original.
+2. No se utilice con fines comerciales.
+
+Esto incluye cualquier tipo de venta, licenciamiento, suscripción, servicio pago o integración en productos comerciales.
+
+Texto completo de la licencia (en español): https://creativecommons.org/licenses/by-nc/4.0/deed.es
+Texto legal completo: https://creativecommons.org/licenses/by-nc/4.0/legalcode
